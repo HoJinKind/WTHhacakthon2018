@@ -7,8 +7,8 @@ Team Members:
 * [Derrick](https://github.com/derrickmyo96)
 
 <img src="https://raw.githubusercontent.com/HoJinKind/WTHhacakthon2018/master/img/Screenshot%20(95).png" alt="alt text" width="850" > 
-<img src="https://raw.githubusercontent.com/HoJinKind/WTHhacakthon2018/master/img/Screenshot%20(96).png" alt="alt text" width="425" >  <img src="https://raw.githubusercontent.com/HoJinKind/WTHhacakthon2018/master/img/Screenshot%20(97).png" alt="alt text"  img width="425"/> 
-<img src="https://raw.githubusercontent.com/HoJinKind/WTHhacakthon2018/master/img/Screenshot%20(98).png" alt="alt text" width="425" >  <img src="https://raw.githubusercontent.com/HoJinKind/WTHhacakthon2018/master/img/Screenshot%20(99).png" width="425"/> 
+<img src="https://raw.githubusercontent.com/HoJinKind/WTHhacakthon2018/master/img/Screenshot%20(96).png" alt="alt text" width="850" >  <img src="https://raw.githubusercontent.com/HoJinKind/WTHhacakthon2018/master/img/Screenshot%20(97).png" alt="alt text"  img width="850"/> 
+<img src="https://raw.githubusercontent.com/HoJinKind/WTHhacakthon2018/master/img/Screenshot%20(98).png" alt="alt text" width="850" >  <img src="https://raw.githubusercontent.com/HoJinKind/WTHhacakthon2018/master/img/Screenshot%20(99).png" width="850"/> 
 
 
 
